@@ -2,18 +2,18 @@
 create table student(Id int,Name varchar(20),Dep varchar(20));
 
 // Inserting Values
-insert into student values(1,"Vishnu","CSE");
-insert into student values(2,"Tharun","CSE");
-insert into student values(3,"Sivaguru","CSE");
+insert into student values(1,"logesh","CSE");
+insert into student values(2,"deepak","CSE");
+insert into student values(3,"suriya","CSE");
 insert into student values(4,"Vijay","CSE");
 
 // Displaying the Table student
 select * from student;
 
 Id	Name	      Dep
-1	Vishnu	CSE
-2	Tharun	CSE
-3	Sivaguru	CSE
+1	logesh	CSE
+2	deepak	CSE
+3	suriya	CSE
 4	Vijay	      CSE
 
 //CREATING TABLE:College
